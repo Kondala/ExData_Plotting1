@@ -6,6 +6,6 @@ Edit the setwd() command, the very first command of each script to point the wor
 
 Next, select all the lines of the script (e.g. with ctrl + A) and execute the lines.
 
-Repeat this process for all the four .R files.
+Repeat this process for all the four .R files. 
 
 
